@@ -2,7 +2,7 @@
 # [Building An LSTM Model From Scratch In Python](https://pub.towardsai.net/building-a-lstm-from-scratch-in-python-1dedd89de8fe)
 How to build a basic LSTM using Basic Python libraries
 
-Source of [HERE](../Sequence%20Models/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
+Source of [HERE](../main/Sequence%20Models/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
 
 # Deep Learning Specialization
 
