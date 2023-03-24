@@ -1,6 +1,7 @@
 
-# [Building An LSTM Model From Scratch In Python](https://pub.towardsai.net/building-a-lstm-from-scratch-in-python-1dedd89de8fe)
-How to build a basic LSTM using Basic Python libraries
+# Building An LSTM Model From Scratch In Python
+- How to build a basic LSTM using Basic Python libraries on [Medium, part-2](https://pub.towardsai.net/building-a-lstm-from-scratch-in-python-1dedd89de8fe) 
+- Building A Recurrent Neural Network From Scratch In Python on [Medium, part-1](https://pub.towardsai.net/building-a-recurrent-neural-network-from-scratch-in-python-3ad244b1054f)
 
 Source of [HERE](../main/Sequence%20Models/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
 
